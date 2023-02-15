@@ -7,9 +7,9 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="198dp"
-        android:layout_height="28dp"
-        android:text="Derrochando corage y corazón"
+        android:layout_width="83dp"
+        android:layout_height="36dp"
+        android:text="Aupa Atléti !!!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
